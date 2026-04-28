@@ -3,7 +3,7 @@
 Este proyecto analiza el volumen de llamadas mensuales para identificar patrones de demanda.
 
 ## 📊 Visualización de Resultados
-![Gráfico de Llamadas](Análisis_grafico.png)
+![Gráfico de Llamadas](Analisis_grafico.png)
 
 ## 📝 Análisis de Resultados y Recomendaciones
 
